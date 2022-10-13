@@ -24,14 +24,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- :telescope: Now I'm just gaining practical experience, writing my phone book, making small console games. But right now my main project is a portfolio site, it will be very cool!)
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning how to write optimized, concise, concise, readable code.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time I take tests in telegram groups, read articles, solve various problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-XllrepoDewelloper-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/XllrepoDewelloper)
 
 ---
 
