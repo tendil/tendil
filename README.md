@@ -56,8 +56,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tendil&theme=dark&background=000000)](https://www.meyta.pp.ua)
+  
+<details>
+<summary> 
+GitHub Stats 📈 
+</summary>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tendil&layout=compact&theme=vision-friendly-dark)](https://www.meyta.pp.ua)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tendil&theme=dark&background=000000)](https://www.meyta.pp.ua) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tendil&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="tendil" /></p> |
+| ------------- | ------------- |
+
+
+<!-- svg source =  https://worldvectorlogo.com -->
+
+</details>
+  
+  
 ---
