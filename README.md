@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: This experience, coupled with my passion for sports, has nurtured my ability to think creatively and propose innovative ideas.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-XllrepoDewelloper-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/XllrepoDewelloper)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-XllrepoDewelloper-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/XllrepoDevelloper)
 
 ---
 
