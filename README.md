@@ -1,16 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IpkyqWqbipGg/giphy.gif" width="150"/>
-  <div id="badges">
-    <a href="https://t.me/XllrepoDevelloper">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/dmitry-meyta-284a031a3/">
-      <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://instagram.com/meyta.21?igshid=YmMyMTA2M2Y=">
-      <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=black-orange" alt="Instagram Badge"/>
-    </a>
-  </div>
   <div>
   <a href="https://www.meyta.pp.ua">
     <img src="https://img.shields.io/badge/WebSite-blue?style=for-the-badge&logo=web&logoColor=blue" alt="Web Badge"/> 
@@ -24,18 +13,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/9iv4ErObYQvrW/giphy.gif" width="400" height="200"/>
 </div>
-
----
-
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
-- :telescope: I possess over 4 years of professional experience as a AQA Engineer, specializing in the establishment of QA processes, team leadership, test documentation creation, and testing of mobile and web applications. My expertise extends to back-end and API testing, and I am proficient in developing testing frameworks using Selenium (Java) and Playwright (JS).
-
-- :seedling: Beyond my professional endeavors, I bring a robust sports background that emphasizes goal-setting and teamwork, contributing to the development of my analytical and problem-solving skills as well as a strong sense of responsibility.
-
-- :zap: This experience, coupled with my passion for sports, has nurtured my ability to think creatively and propose innovative ideas.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-XllrepoDewelloper-blue?style=flat&logo=Telegram&logoColor=blue)](https://t.me/XllrepoDevelloper)
 
 ---
 
