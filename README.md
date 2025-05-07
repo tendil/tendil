@@ -1,12 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IpkyqWqbipGg/giphy.gif" width="150"/>
-  <div>
-  <a href="https://www.meyta.pp.ua">
-    <img src="https://img.shields.io/badge/WebSite-blue?style=for-the-badge&logo=web&logoColor=blue" alt="Web Badge"/> 
-  </div>
     <img src="https://komarev.com/ghpvc/?username=tendil&style=flat-square&color=blue" alt=""/>
   <h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gilroy&weight=500&duration=4000&pause=1000&color=4F10F7&background=55FF6100&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Oh+hey!+I'm+Meita+Dmitry!;I'm+very+love+programming+and+PYYYYYTHON!!!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gilroy&weight=500&duration=4000&pause=1000&color=4F10F7&background=55FF6100&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Oh+hey!+I'm+Dmitry!;I'm+very+love+programming+and+PYYYYYTHON!!!" alt="Typing SVG" /></a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   </h1>
 </div>
